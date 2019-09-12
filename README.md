@@ -17,3 +17,4 @@ B 737 | B 747
 
 The result of B 737 vs B 747 classification can be found in Aircraft_Classification.ipynb. Overall the model performs reasonably, but it is slightly overfit. Also I believe the test set and training set share images, and I am in the process of methodotically identifying the intersections.
 
+The end goal, of course, is to generalize it to all aircrafts.

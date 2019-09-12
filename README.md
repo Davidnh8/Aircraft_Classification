@@ -14,3 +14,6 @@ As a small step forward, I completed a neural network model that distinguishes B
 B 737 | B 747
 ----------- | ------------
 ![b 737](https://github.com/Davidnh8/Aircraft_Classification/blob/master/b737.jpg) | ![b 747](https://github.com/Davidnh8/Aircraft_Classification/blob/master/b747.jpg)
+
+The result of B 737 vs B 747 classification can be found in Aircraft_Classification.ipynb.
+

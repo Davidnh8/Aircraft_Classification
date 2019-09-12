@@ -7,7 +7,7 @@ This is a massive project that may take years to perfect it, and I chip it away 
 2. User should be able to take the photo from any (reasonable) angle.
 3. Different planes have different logos and paintings
 
-To compensate, this project needs massive data set. Although I managed to gather at least 10,000 pictures, that is simply not enough.
+To compensate, this project needs massive data set. Although I managed to gather at over 10,000 pictures, that is simply not enough.
 
 As a small step forward, I completed a neural network model that distinguishes Boeing 737 and Boeing 747. They are particularily easy to distinguish because b747's fuselage increases in thickness for about half its length as shown below.
 

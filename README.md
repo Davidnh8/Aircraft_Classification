@@ -1,6 +1,6 @@
 # Aircraft_Classification
 
-I started this project after having one thought. Wouldn't it be nice to take a picture of an airplane with a smartphone and it tells you what kind of plane it is?
+I started this project after having one thought. Wouldn't it be cool to take a picture of an airplane with a smartphone and it tells you what kind of plane it is?
 
 This is a massive project that may take years to perfect it, and I chip it away little by little, simply because:  
 1. Airplanes look very very similar to one another

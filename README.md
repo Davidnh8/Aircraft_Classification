@@ -19,4 +19,4 @@ The result of B 737 vs B 747 classification can be found in [Aircraft_Classifica
 
 The end goal, of course, is to generalize it to all aircrafts.
 
-* Note that occasionally, github has trouble loading the ipython notebook.
+\* Note that occasionally, github has trouble loading the ipython notebook.

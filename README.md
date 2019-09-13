@@ -15,6 +15,6 @@ B 737 | B 747
 ----------- | ------------
 ![b 737](https://github.com/Davidnh8/Aircraft_Classification/blob/master/b737.jpg) | ![b 747](https://github.com/Davidnh8/Aircraft_Classification/blob/master/b747.jpg)
 
-The result of B 737 vs B 747 classification can be found in Aircraft_Classification.ipynb. Overall the model performs reasonably, but it is slightly overfit. Also I believe the test set and training set share images, and I am in the process of methodotically identifying the intersections.
+The result of B 737 vs B 747 classification can be found in [Aircraft_Classification.ipynb](https://github.com/Davidnh8/Aircraft_Classification/blob/master/Aircraft_Classification.ipynb). Overall the model performs reasonably, but it is slightly overfit. Also I believe the test set and training set share images, and I am in the process of methodotically identifying the intersections.
 
 The end goal, of course, is to generalize it to all aircrafts.
